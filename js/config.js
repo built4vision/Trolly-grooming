@@ -30,7 +30,7 @@ const CONFIG = {
 
   cityState: "Trolley Square, Wilmington, Delaware",
   // EDIT: no confirmed street address yet — swap in the real one when available.
-  address: "Trolley Square, Wilmington, Delaware",
+  address: "27-A Trolley Square, Wilmington, Delaware",
 
   // Built4Vision's own info — stays the same across every client project.
   builtByName: "Built4Vision",
